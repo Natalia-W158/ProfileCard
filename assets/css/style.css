@@ -2,9 +2,14 @@
 
 body{
     margin: 0;
-    background-image: url(../img/augustin-de-montesquiou-RqMIFcDLeos-unsplash.jpg);
+    background-image: url(../img/spencer-everett-4MTSE39Oqro-unsplash.jpg);
+    background-size: cover;
     text-align: center;
     font-family: 'Roboto' ;
+}
+h1 {
+    font-size: 50px;
+    font-weight: bolder;
 }
 
 article{
